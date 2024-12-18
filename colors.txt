@@ -1,8 +1,8 @@
 maroon
-orange
-yellow
+nectarine
+mustard
 light green
-blue
+sky
 violet
 dark brown
 black
@@ -13,3 +13,6 @@ gold
 iron
 charcoal
 indigo
+navy
+goldenrod
+avocado
