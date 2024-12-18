@@ -1,10 +1,10 @@
 maroon
 orange
 yellow
-light green
+lime
 blue
 violet
-dark brown
+chocolate
 black
 gray
 white
