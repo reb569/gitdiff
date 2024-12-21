@@ -1,10 +1,10 @@
 maroon
 nectarine
 mustard
-light green
 sky
+lime
 violet
-dark brown
+chocolate
 black
 gray
 white
